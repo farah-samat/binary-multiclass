@@ -10,4 +10,4 @@ A small subset of [MNIST dataset](http://yann.lecun.com/exdb/mnist/) is used.<br
 Both parts are combined in a single [Jupyter notebook](https://github.com/farah-samat/logistic-regression/blob/master/binary_and_multiclass.ipynb).
 
 #### Reference
-SIT720 (Assignment 2), Deakin University, Australia.
+SIT720 Machine Learning (2017), Deakin University, Australia.

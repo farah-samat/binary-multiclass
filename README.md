@@ -1,3 +1,4 @@
+## Binary and Multi-class Classification problems
 This work features binary and multi-class classification problems.
 
 #### Part 1 Breast cancer diagnosis using logistic regression.
